@@ -2,7 +2,7 @@
 
 #### Abstract
 
-This research project focuses on leveraging advanced deep-learning techniques to develop a sophisticated model capable of distinguishing between edible and contaminated food items using image inputs. With the evolution of Neural Networks, numerous deep learning models, optimizers, and activation functions have been introduced. Among these models, the Convolutional Neural Network (CNN) stands out for its ability to identify image features and reduce image dimensions while preserving essential components.
+This project focuses on leveraging advanced deep-learning techniques to develop a sophisticated model capable of distinguishing between edible and contaminated food items using image inputs. With the evolution of Neural Networks, numerous deep learning models, optimizers, and activation functions have been introduced. Among these models, the Convolutional Neural Network (CNN) stands out for its ability to identify image features and reduce image dimensions while preserving essential components.
 
 The process begins with preprocessing the required data, crucial for training different deep-learning models, including variations of Convolutional Neural Networks. After training multiple models and evaluating their performance against each other, the optimal performing model is selected. If the model's performance aligns closely with the desired outcomes, fine-tuning techniques are employed to further enhance its accuracy.
 
@@ -25,4 +25,8 @@ This study's outcomes contribute to the field of food safety by providing a reli
 - **Evaluation Metrics:** Confusion Matrix Parameters
 - **Methodology:** Training, Evaluation, and Fine-Tuning of Deep Learning Models
 
-The research findings showcase the effectiveness of CNNs in accurately classifying food images and demonstrate the potential of deep learning models in ensuring food safety and quality. The project aims to have a significant impact on real-world applications for food safety and inspection.
+The findings showcase the effectiveness of CNNs in accurately classifying food images and demonstrate the potential of deep learning models in ensuring food safety and quality. The project aims to have a significant impact on real-world applications for food safety and inspection.
+
+### Project Flow
+
+<img src="EWs (1).png" />
